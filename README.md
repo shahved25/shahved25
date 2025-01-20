@@ -8,7 +8,6 @@
 <img src="./assets/borderseparator.gif"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="right"/>
-<h2 align="center"> <strong> Applied Mathematics and Computer Science</strong> </h2><img src="./assets/borderseparator.gif"/><br>
 
 <div align="left">
 <li>👨‍💻 I'm Ved Shah (shahved25)👋, an avid full-stack programmer and a student at the Downingtown STEM Academy. 💻 <br><br></li>
