@@ -1,11 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Ved+Shah+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Ved Shah! Welcome to my Profile! animated typed out" width="100%"/>
 <img src="./assets/borderseparator.gif" width="100%"/>
 
-<p align="center"> 
-  <b>Profile Views</b><br>
-  <img src="https://profile-counter.glitch.me/shahved25/count.svg" />
-</p>
-
 <img src="./assets/pixel-night-banner.gif"/> 
 
 
